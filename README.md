@@ -12,7 +12,7 @@ enabled Coupon.
 I have used the below tech stack to execute the flow.
 -Gradle BuildTool
 -Cucumber BDD framework (gherkin framework)
--Selenium and Appium (Latest version 1.22) for Automating the Android 
+-Selenium and Appium (Latest version 1.22) for Automating the Android app
 -Java as the coding language.
 -Kindly TestRunner.class to run the feature file which will execute the above mentioned flow.
 -Cucumber reports are generated in the /target folder,after execution
