@@ -9,7 +9,7 @@ preferred partner is REWE) and after that he/she activate the first
 enabled Coupon.
 
 
-I have used the below tech stack to execute the follow.
+I have used the below tech stack to execute the flow.
 -Gradle BuildTool
 -Cucumber BDD framework (gherkin framework)
 -Selenium and Appium (Latest version 1.22) for Automating the Android 
