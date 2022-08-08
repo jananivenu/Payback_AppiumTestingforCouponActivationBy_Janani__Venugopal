@@ -9,6 +9,7 @@ preferred partner is REWE) and after that he/she activate the first
 enabled Coupon.
 
 
+
 I have used the below tech stack to execute the flow.
 -Gradle BuildTool
 -Cucumber BDD framework (gherkin framework)
@@ -17,3 +18,4 @@ I have used the below tech stack to execute the flow.
 -Kindly TestRunner.class to run the feature file which will execute the above mentioned flow.
 -Cucumber reports are generated in the /target folder,after execution
 
+Note:I could not automate the Login Page due to the security issues faced while inspecting the app.Hence,I have skipped the part.
